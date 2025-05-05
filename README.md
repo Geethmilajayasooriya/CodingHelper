@@ -18,17 +18,6 @@
 - 📱 Mobile-responsive layout
 
 
-## 📸 Screenshots
-
-### 🔷 Splash Screen
-![Splash Screen](images/6.png)
-
-### 🔷 Home Page
-![Home Page](images/5.png)
-
-### 🔷 Detail Page
-![Detail Page](images/2.png)
-
 
 ## 🧠 How It Works
 
